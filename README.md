@@ -23,12 +23,6 @@ This project evaluates the effectiveness of various machine learning models—Lo
 | CNN                | 0.82     | 0.84   |
 | YOLO               | 0.98     | 0.93   |
 
-## Future Work
-
-- Fine-tune YOLO on more data
-- Explore vision transformers
-- Incorporate 3D LiDAR for better scene understanding
-
 ## Data Access
 
 Due to GitHub's size limits, datasets are available via Google Drive:
